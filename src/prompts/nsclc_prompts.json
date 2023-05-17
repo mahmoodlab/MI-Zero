@@ -1,0 +1,833 @@
+{
+    "0": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, papillary pattern",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "a histopathological photograph of CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological photograph showing CLASSNAME.",
+            "this is CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "presence of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a photomicrograph of CLASSNAME."
+        ]
+    },
+    "1": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, micropapillary pattern",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "presence of CLASSNAME.",
+            "shows CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "CLASSNAME is shown."
+        ]
+    },
+    "2": {
+        "classnames": {
+            "LUAD": "adenocarcinoma of the lung",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "an image showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME."
+        ]
+    },
+    "3": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, papillary pattern",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "this is CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME.",
+            "CLASSNAME is present.",
+            "a photomicrograph of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "shows CLASSNAME.",
+            "an image of CLASSNAME."
+        ]
+    },
+    "4": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, lepidic pattern",
+            "LUSC": "lung squamous cell carcinoma"
+        },
+        "templates": [
+            "an example of CLASSNAME.",
+            "this is CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological image showing CLASSNAME."
+        ]
+    },
+    "5": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, micropapillary pattern",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "there is CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "this is CLASSNAME."
+        ]
+    },
+    "6": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, acinar pattern",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "a photomicrograph showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "this is CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological image of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "CLASSNAME.",
+            "CLASSNAME is shown."
+        ]
+    },
+    "7": {
+        "classnames": {
+            "LUAD": "adenocarcinoma of the lung",
+            "LUSC": "lung squamous cell carcinoma"
+        },
+        "templates": [
+            "a histopathological photograph showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "there is CLASSNAME.",
+            "an example of CLASSNAME.",
+            "shows CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "this is CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "CLASSNAME.",
+            "CLASSNAME is present."
+        ]
+    },
+    "8": {
+        "classnames": {
+            "LUAD": "adenocarcinoma",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "shows CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "there is CLASSNAME.",
+            "this is CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological image showing CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "CLASSNAME.",
+            "a photomicrograph showing CLASSNAME."
+        ]
+    },
+    "9": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, micropapillary pattern",
+            "LUSC": "lung squamous cell carcinoma"
+        },
+        "templates": [
+            "a histopathological image of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME is shown."
+        ]
+    },
+    "10": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, micropapillary pattern",
+            "LUSC": "squamous cell carcinoma of the lung"
+        },
+        "templates": [
+            "a histopathological image showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "CLASSNAME."
+        ]
+    },
+    "11": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, acinar pattern",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "an image of CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "this is CLASSNAME.",
+            "CLASSNAME is shown.",
+            "CLASSNAME is present.",
+            "there is CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "shows CLASSNAME."
+        ]
+    },
+    "12": {
+        "classnames": {
+            "LUAD": "pulmonary adenocarcinoma",
+            "LUSC": "squamous cell carcinoma of the lung"
+        },
+        "templates": [
+            "CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "this is CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a photomicrograph showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological photograph showing CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "there is CLASSNAME.",
+            "shows CLASSNAME.",
+            "a histopathological photograph of CLASSNAME."
+        ]
+    },
+    "13": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, micropapillary pattern",
+            "LUSC": "squamous cell carcinoma of the lung"
+        },
+        "templates": [
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "there is CLASSNAME."
+        ]
+    },
+    "14": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, solid pattern",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "a photomicrograph of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological image showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "CLASSNAME.",
+            "an image of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an image showing CLASSNAME."
+        ]
+    },
+    "15": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, lepidic pattern",
+            "LUSC": "lung squamous cell carcinoma"
+        },
+        "templates": [
+            "presence of CLASSNAME.",
+            "CLASSNAME is present.",
+            "CLASSNAME.",
+            "there is CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "an image of CLASSNAME."
+        ]
+    },
+    "16": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, lepidic pattern",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "this is CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "17": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, solid pattern",
+            "LUSC": "squamous cell carcinoma of the lung"
+        },
+        "templates": [
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "CLASSNAME.",
+            "an image of CLASSNAME.",
+            "there is CLASSNAME.",
+            "an example of CLASSNAME.",
+            "shows CLASSNAME.",
+            "this is CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "18": {
+        "classnames": {
+            "LUAD": "pulmonary adenocarcinoma",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological image showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME."
+        ]
+    },
+    "19": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, micropapillary pattern",
+            "LUSC": "lung squamous cell carcinoma"
+        },
+        "templates": [
+            "CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "shows CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a photomicrograph showing CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a histopathological image showing CLASSNAME."
+        ]
+    },
+    "20": {
+        "classnames": {
+            "LUAD": "adenocarcinoma of the lung",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "a histopathological image of CLASSNAME.",
+            "CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "there is CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "CLASSNAME is present.",
+            "an image of CLASSNAME.",
+            "shows CLASSNAME."
+        ]
+    },
+    "21": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, micropapillary pattern",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "a photomicrograph showing CLASSNAME.",
+            "CLASSNAME.",
+            "an example of CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is shown."
+        ]
+    },
+    "22": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, solid pattern",
+            "LUSC": "squamous cell carcinoma of the lung"
+        },
+        "templates": [
+            "a histopathological image showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME."
+        ]
+    },
+    "23": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, micropapillary pattern",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "shows CLASSNAME.",
+            "CLASSNAME is shown.",
+            "an example of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "CLASSNAME is present.",
+            "this is CLASSNAME."
+        ]
+    },
+    "24": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, papillary pattern",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "there is CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "25": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, lepidic pattern",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "a histopathological image of CLASSNAME.",
+            "this is CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "there is CLASSNAME."
+        ]
+    },
+    "26": {
+        "classnames": {
+            "LUAD": "adenocarcinoma of the lung",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "an image showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "there is CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "this is CLASSNAME.",
+            "an image of CLASSNAME.",
+            "CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "27": {
+        "classnames": {
+            "LUAD": "adenocarcinoma",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "there is CLASSNAME.",
+            "CLASSNAME is present.",
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "this is CLASSNAME.",
+            "presence of CLASSNAME."
+        ]
+    },
+    "28": {
+        "classnames": {
+            "LUAD": "adenocarcinoma of the lung",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "presence of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "this is CLASSNAME.",
+            "an image of CLASSNAME.",
+            "shows CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME."
+        ]
+    },
+    "29": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, acinar pattern",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "this is CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "there is CLASSNAME."
+        ]
+    },
+    "30": {
+        "classnames": {
+            "LUAD": "pulmonary adenocarcinoma",
+            "LUSC": "lung squamous cell carcinoma"
+        },
+        "templates": [
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "an image of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "shows CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "CLASSNAME is present.",
+            "a photomicrograph showing CLASSNAME."
+        ]
+    },
+    "31": {
+        "classnames": {
+            "LUAD": "lung adenocarcinoma",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "an example of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological image showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "there is CLASSNAME.",
+            "this is CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "32": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, papillary pattern",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "a histopathological image of CLASSNAME.",
+            "this is CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is shown.",
+            "CLASSNAME is present.",
+            "an image of CLASSNAME."
+        ]
+    },
+    "33": {
+        "classnames": {
+            "LUAD": "lung adenocarcinoma",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "a histopathological image of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "there is CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "CLASSNAME is present.",
+            "an image of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "this is CLASSNAME."
+        ]
+    },
+    "34": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, micropapillary pattern",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "a photomicrograph showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological image showing CLASSNAME.",
+            "presence of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "CLASSNAME is present.",
+            "this is CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "35": {
+        "classnames": {
+            "LUAD": "adenocarcinoma of the lung",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "there is CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME.",
+            "a photomicrograph showing CLASSNAME."
+        ]
+    },
+    "36": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, lepidic pattern",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "a photomicrograph of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is shown.",
+            "this is CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "shows CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "CLASSNAME is present.",
+            "presence of CLASSNAME."
+        ]
+    },
+    "37": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, lepidic pattern",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "shows CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is present.",
+            "an example of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME."
+        ]
+    },
+    "38": {
+        "classnames": {
+            "LUAD": "pulmonary adenocarcinoma",
+            "LUSC": "squamous cell carcinoma"
+        },
+        "templates": [
+            "CLASSNAME is present.",
+            "CLASSNAME is shown.",
+            "a histopathological image of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "CLASSNAME.",
+            "there is CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "an image showing CLASSNAME."
+        ]
+    },
+    "39": {
+        "classnames": {
+            "LUAD": "pulmonary adenocarcinoma",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "this is CLASSNAME.",
+            "an image of CLASSNAME.",
+            "there is CLASSNAME."
+        ]
+    },
+    "40": {
+        "classnames": {
+            "LUAD": "adenocarcinoma",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "CLASSNAME is present.",
+            "this is CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "presence of CLASSNAME.",
+            "CLASSNAME.",
+            "an example of CLASSNAME.",
+            "shows CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological photograph showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "41": {
+        "classnames": {
+            "LUAD": "lung adenocarcinoma",
+            "LUSC": "squamous cell carcinoma of the lung"
+        },
+        "templates": [
+            "CLASSNAME is present.",
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a photomicrograph showing CLASSNAME.",
+            "CLASSNAME.",
+            "an image showing CLASSNAME."
+        ]
+    },
+    "42": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, solid pattern",
+            "LUSC": "lung squamous cell carcinoma"
+        },
+        "templates": [
+            "shows CLASSNAME.",
+            "this is CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a photomicrograph showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "CLASSNAME is present.",
+            "presence of CLASSNAME."
+        ]
+    },
+    "43": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, micropapillary pattern",
+            "LUSC": "squamous cell carcinoma of the lung"
+        },
+        "templates": [
+            "CLASSNAME.",
+            "a histopathological image showing CLASSNAME."
+        ]
+    },
+    "44": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, solid pattern",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "45": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, papillary pattern",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "CLASSNAME is present.",
+            "presence of CLASSNAME.",
+            "this is CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "an image showing CLASSNAME."
+        ]
+    },
+    "46": {
+        "classnames": {
+            "LUAD": "adenocarcinoma",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "CLASSNAME is present.",
+            "an image of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological photograph of CLASSNAME.",
+            "shows CLASSNAME.",
+            "a histopathological image showing CLASSNAME."
+        ]
+    },
+    "47": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, papillary pattern",
+            "LUSC": "lung squamous cell carcinoma"
+        },
+        "templates": [
+            "a histopathological photograph showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "CLASSNAME is present.",
+            "presence of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "this is CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "an image showing CLASSNAME."
+        ]
+    },
+    "48": {
+        "classnames": {
+            "LUAD": "lung adenocarcinoma",
+            "LUSC": "lung squamous cell carcinoma"
+        },
+        "templates": [
+            "an image of CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological image showing CLASSNAME.",
+            "presence of CLASSNAME.",
+            "CLASSNAME."
+        ]
+    },
+    "49": {
+        "classnames": {
+            "LUAD": "adenocarcinoma, solid pattern",
+            "LUSC": "pulmonary squamous cell carcinoma"
+        },
+        "templates": [
+            "CLASSNAME is shown.",
+            "CLASSNAME is present.",
+            "a histopathological image showing CLASSNAME.",
+            "this is CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "shows CLASSNAME."
+        ]
+    }
+}

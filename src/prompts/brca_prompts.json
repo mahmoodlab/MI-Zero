@@ -1,0 +1,832 @@
+{
+    "0": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "shows CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME.",
+            "CLASSNAME is present.",
+            "there is CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME."
+        ]
+    },
+    "1": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a histopathological photograph showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "CLASSNAME.",
+            "there is CLASSNAME."
+        ]
+    },
+    "2": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "this is CLASSNAME.",
+            "presence of CLASSNAME.",
+            "CLASSNAME.",
+            "shows CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "there is CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a photomicrograph of CLASSNAME."
+        ]
+    },
+    "3": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "an image of CLASSNAME.",
+            "CLASSNAME.",
+            "presence of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "shows CLASSNAME.",
+            "CLASSNAME is present.",
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an image showing CLASSNAME."
+        ]
+    },
+    "4": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "shows CLASSNAME.",
+            "an example of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "this is CLASSNAME.",
+            "CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological image of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME."
+        ]
+    },
+    "5": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a histopathological photograph of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "CLASSNAME."
+        ]
+    },
+    "6": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "an image of CLASSNAME.",
+            "shows CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological image of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "an example of CLASSNAME.",
+            "this is CLASSNAME.",
+            "CLASSNAME.",
+            "a histopathological image showing CLASSNAME."
+        ]
+    },
+    "7": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "an image showing CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME."
+        ]
+    },
+    "8": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a histopathological photograph of CLASSNAME."
+        ]
+    },
+    "9": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a histopathological photograph of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological image showing CLASSNAME.",
+            "CLASSNAME.",
+            "CLASSNAME is present.",
+            "an example of CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "this is CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "an image showing CLASSNAME."
+        ]
+    },
+    "10": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "an image showing CLASSNAME."
+        ]
+    },
+    "11": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "an image showing CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "this is CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "shows CLASSNAME."
+        ]
+    },
+    "12": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a histopathological image showing CLASSNAME."
+        ]
+    },
+    "13": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a histopathological image of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "an image of CLASSNAME."
+        ]
+    },
+    "14": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "presence of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME."
+        ]
+    },
+    "15": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "16": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "presence of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "CLASSNAME is present.",
+            "CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "this is CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME."
+        ]
+    },
+    "17": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "CLASSNAME is present.",
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "an example of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "CLASSNAME.",
+            "this is CLASSNAME.",
+            "shows CLASSNAME.",
+            "a photomicrograph of CLASSNAME."
+        ]
+    },
+    "18": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a histopathological photograph of CLASSNAME.",
+            "shows CLASSNAME.",
+            "CLASSNAME.",
+            "a histopathological image showing CLASSNAME."
+        ]
+    },
+    "19": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "this is CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "an image showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "there is CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "shows CLASSNAME."
+        ]
+    },
+    "20": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "shows CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "a photomicrograph of CLASSNAME."
+        ]
+    },
+    "21": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a histopathological image of CLASSNAME.",
+            "CLASSNAME is present.",
+            "an image showing CLASSNAME.",
+            "CLASSNAME.",
+            "this is CLASSNAME.",
+            "shows CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a photomicrograph of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an image of CLASSNAME."
+        ]
+    },
+    "22": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "presence of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is shown.",
+            "this is CLASSNAME."
+        ]
+    },
+    "23": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a photomicrograph of CLASSNAME.",
+            "there is CLASSNAME.",
+            "shows CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "CLASSNAME.",
+            "CLASSNAME is present.",
+            "an image showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "this is CLASSNAME."
+        ]
+    },
+    "24": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "this is CLASSNAME."
+        ]
+    },
+    "25": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "there is CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "CLASSNAME.",
+            "this is CLASSNAME.",
+            "shows CLASSNAME.",
+            "CLASSNAME is present.",
+            "an example of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "presence of CLASSNAME."
+        ]
+    },
+    "26": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a histopathological image showing CLASSNAME.",
+            "CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "27": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a photomicrograph showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "this is CLASSNAME.",
+            "an example of CLASSNAME."
+        ]
+    },
+    "28": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "an example of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "shows CLASSNAME.",
+            "an image showing CLASSNAME."
+        ]
+    },
+    "29": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "there is CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "this is CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "CLASSNAME is shown."
+        ]
+    },
+    "30": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "CLASSNAME is present.",
+            "this is CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "31": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "this is CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "CLASSNAME is present.",
+            "CLASSNAME."
+        ]
+    },
+    "32": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a histopathological image of CLASSNAME.",
+            "shows CLASSNAME.",
+            "presence of CLASSNAME.",
+            "CLASSNAME."
+        ]
+    },
+    "33": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "an image of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological image of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is present.",
+            "an image showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "an example of CLASSNAME."
+        ]
+    },
+    "34": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a histopathological photograph showing CLASSNAME."
+        ]
+    },
+    "35": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "presence of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological image showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "this is CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "CLASSNAME is present.",
+            "a photomicrograph of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "36": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "presence of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "this is CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME.",
+            "shows CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological photograph showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "37": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological image of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "CLASSNAME is present.",
+            "shows CLASSNAME.",
+            "an example of CLASSNAME.",
+            "this is CLASSNAME.",
+            "CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "an image showing CLASSNAME."
+        ]
+    },
+    "38": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a histopathological photograph showing CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is present.",
+            "CLASSNAME is shown.",
+            "CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "shows CLASSNAME.",
+            "this is CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME."
+        ]
+    },
+    "39": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a histopathological image showing CLASSNAME.",
+            "an image of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "an image showing CLASSNAME.",
+            "presence of CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME.",
+            "a photomicrograph of CLASSNAME."
+        ]
+    },
+    "40": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a histopathological image showing CLASSNAME.",
+            "CLASSNAME is present."
+        ]
+    },
+    "41": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "CLASSNAME."
+        ]
+    },
+    "42": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "an image of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "CLASSNAME is present.",
+            "a histopathological photograph of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "this is CLASSNAME.",
+            "shows CLASSNAME.",
+            "CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "43": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a photomicrograph of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "shows CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "this is CLASSNAME."
+        ]
+    },
+    "44": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a histopathological photograph showing CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "this is CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "an example of CLASSNAME.",
+            "CLASSNAME.",
+            "an image of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "shows CLASSNAME.",
+            "CLASSNAME is present.",
+            "a photomicrograph of CLASSNAME."
+        ]
+    },
+    "45": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "a photomicrograph of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "a histopathological image showing CLASSNAME."
+        ]
+    },
+    "46": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "presence of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "there is CLASSNAME.",
+            "this is CLASSNAME.",
+            "shows CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "a histopathological image of CLASSNAME."
+        ]
+    },
+    "47": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "CLASSNAME is shown.",
+            "there is CLASSNAME.",
+            "a photomicrograph of CLASSNAME."
+        ]
+    },
+    "48": {
+        "classnames": {
+            "IDC": "carcinoma of the breast, ductal pattern",
+            "ILC": "carcinoma of the breast, lobular pattern"
+        },
+        "templates": [
+            "presence of CLASSNAME.",
+            "an example of CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "there is CLASSNAME.",
+            "this is CLASSNAME.",
+            "an image showing CLASSNAME."
+        ]
+    },
+    "49": {
+        "classnames": {
+            "IDC": "invasive ductal carcinoma",
+            "ILC": "invasive lobular carcinoma"
+        },
+        "templates": [
+            "a histopathological image of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "CLASSNAME is shown.",
+            "CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "CLASSNAME is present."
+        ]
+    }
+}

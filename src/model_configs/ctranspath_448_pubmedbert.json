@@ -1,0 +1,15 @@
+{
+    "embed_dim": 512,
+    "vision_cfg": {
+        "timm_pool": "",
+        "timm_proj": "linear",
+        "image_size": 448,
+        "custom_model_path": ""
+    },
+    "text_cfg": {
+        "model_path": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
+        "model_config_path": "",
+        "vocab_size": 30522,
+        "model_type": "pretrained_bert"
+    }
+}

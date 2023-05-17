@@ -1,0 +1,15 @@
+{
+    "embed_dim": 512,
+    "vision_cfg": {
+        "timm_pool": "",
+        "timm_proj": "linear",
+        "image_size": 448,
+        "custom_model_path": ""
+    },
+    "text_cfg": {
+        "model_path": "emilyalsentzer/Bio_ClinicalBERT",
+        "model_config_path": "",
+        "vocab_size": 28996,
+        "model_type": "pretrained_bert"
+    }
+}
