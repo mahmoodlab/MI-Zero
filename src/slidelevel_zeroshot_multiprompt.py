@@ -53,7 +53,7 @@ def parse_args():
     parser.add_argument('--prompt_file', type=str, help='path to prompt file')
     parser.add_argument('--device', type=str, default='cuda:0', help='device cuda:n')
     
-    # python slidelevel_zeroshot_multiprompt_op.py --task RCC_subtyping --dataset_root /ssd/CVPR2023/ --dataset_split ./data_csvs/tcga_rcc_zeroshot_example.csv --topj 1 5 50 --prompt_file ./prompts/rcc_prompts.json
+    # python slidelevel_zeroshot_multiprompt.py --task RCC_subtyping --dataset_root /ssd/CVPR2023/ --dataset_split ./data_csvs/tcga_rcc_zeroshot_example.csv --topj 1 5 50 --prompt_file ./prompts/rcc_prompts.json
 
     args = parser.parse_args()
     return args
