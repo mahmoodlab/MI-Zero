@@ -22,7 +22,7 @@ Ming Y. Lu*, Bowen Chen*, Andrew Zhang, Drew F. K. Williamson, Richard J. Chen, 
 
 ![MI-Zero schematic](assets/images/wsi_zeroshot-lr.jpg)
 
-© <b>This code and corresponding models are made available for non-commercial academic purposes<\b> and is licenced under the [Creative Commons Attribution Non Commercial No Derivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. Commercial entities may contact us or the Mass General Brigham Innovations office.
+© **This code and corresponding models are made available for non-commercial academic purposes** and is licenced under the [Creative Commons Attribution Non Commercial No Derivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. Commercial entities may contact us or the Mass General Brigham Innovations office.
 
 # Installation
 
