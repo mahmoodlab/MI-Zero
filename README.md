@@ -4,6 +4,8 @@
 <summary>
   <b>Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images</b>, CVPR 2023. 
   <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.html" target="blank">[HTML]</a>
+  <a href="https://arxiv.org/abs/2306.07831"
+target="blank">[ArXiv]</a>
 
 Ming Y. Lu*, Bowen Chen*, Andrew Zhang, Drew F. K. Williamson, Richard J. Chen, Tong Ding, Long Phi Le, Yung-Sung Chuang, Faisal Mahmood
 </summary>
