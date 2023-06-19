@@ -6,7 +6,7 @@
   <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.html" target="blank">[HTML]</a>
   <a href="https://arxiv.org/abs/2306.07831"
 target="blank">[ArXiv]</a>
-  [Cite](#citation)
+  <a href="#cite">[Cite]</a>
 
 Ming Y. Lu*, Bowen Chen*, Andrew Zhang, Drew F. K. Williamson, Richard J. Chen, Tong Ding, Long Phi Le, Yung-Sung Chuang, Faisal Mahmood
 </summary>
@@ -88,6 +88,7 @@ This work is under the [Creative Commons Attribution Non Commercial No Derivativ
 # Funding
 This work was funded by NIH NIGMS [R35GM138216](https://reporter.nih.gov/search/sWDcU5IfAUCabqoThQ26GQ/project-details/10029418).
 
+<a name="cite"></a>
 # Citation
 If you find our work useful, please cite our paper:
 Lu, M.Y., Chen, B., Zhang, A., Williamson, D.F., Chen, R.J., Ding, T., Le, L.P., Chuang, Y.S. and Mahmood, F., 2023. Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 19764-19775).
